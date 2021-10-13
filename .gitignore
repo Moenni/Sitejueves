@@ -1,1 +1,6 @@
 Seguimiento.txt 
+*.txt
+*.doc
+*.jar   
+*.dll   
+*.project
