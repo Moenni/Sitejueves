@@ -48,3 +48,13 @@ git push remoto --delete nuevarama
 git branch -a
 // la rama ya no se ve
  
+
+ LABORATORIO 2
+ 1.Crear un fork de este proyecto
+ 2.Clonar localmente
+ 3.Crear una rama 
+ 4.Mover a esa rama 
+ 5.Hago y aplico cambios 
+ 6.Commit 
+ 7.Push en el repo remoto de la nueva rama
+ 8.Abrir un pull request 
